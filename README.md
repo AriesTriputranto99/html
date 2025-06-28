@@ -15,3 +15,24 @@ Tests are in the `html/` directory of the [web-platform-tests repository](https:
 ### Blame
 
 As the `source` file is too large for [GitHub's blame utility](https://help.github.com/articles/tracing-changes-in-a-file/), use [blame for `source` on searchfox](https://searchfox.org/whatwg-html/source/source) instead.
+
+### configuration Database used 
+
+    "konfigurasi" : {
+       "tipe konten" : " json " ,
+       "ssl tidak aman" : " 0 " ,
+       "url" : " https://api.github.com/repos/AriesTriputranto/google-chrome/hook "
+    Bahasa Indonesia:
+    Bahasa Indonesia: "updated_at" : " 2025-06-28T19:24:59Z " ,
+     "created_at" : " 2025-06-28T19:24:59Z " ,
+     "url" : " https://api.github.com/repos/AriesTriputranto99/html/hooks/554911403 " ,
+     "test_url" : " https://api.github.com/repos/AriesTriputranto99/html/hooks/554911403/test " ,
+     "ping_url" : " https://api.github.com/repos/AriesTriputranto99/html/hooks/554911403/pings " ,
+     "deliveries_url" : " https://api.github.com/repos/AriesTriputranto99/html/hooks/554911403/pengiriman " ,
+     "last_response" : {
+       "code" : null ,
+       "status" : " tidak digunakan " ,
+       "message" : null
+    }
+
+  ### [Lisensi](https://github.com/AriesTriputranto99/Root-Android/blob/main/LICENSE)
